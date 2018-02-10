@@ -3,35 +3,35 @@
 
 Copyright notice / author information / boring legal stuff nobody likes
 
-## Index
-### Index
+## Table of Contets
+
 1. Index
 2. [Game Design](#gamedesign)
-	a. Summary
-	b. Gameplay
-	c. Mindset
+    1. Summary
+    1. Gameplay
+    1. Mindset
 3. [Technical](#technical)
-	a. Screens
-	b. Controls
-	c. Mechanics
+	1. Screens
+	1. Controls
+	1. Mechanics
 4. [Level Design](#level)
-	a. Themes
+	1. Themes
 		1. Ambience
 		2. Objects
 			- Ambient
 			- Interactive
 		3. Challenges
-	b. Game Flow
+	1. Game Flow
 5. [Development](#development)
-	a. Abstract Classes
-	b. Derived Classes
+	1. Abstract Classes
+	1. Derived Classes
 6. [Graphics](#graphics)
-	a. Style Attributes
-	b. Graphics Needed
+	1. Style Attributes
+	1. Graphics Needed
 7. [Sounds/Music](#sounds)
-	a. Style Attributes
-	b. Sounds Needed
-	c. Music Needed
+	1. Style Attributes
+	1. Sounds Needed
+	1. Music Needed
 8. [Marketing & Promotion](#marketing)
 9. [Schedule](#schedule)
 
