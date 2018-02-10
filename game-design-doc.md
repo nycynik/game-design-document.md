@@ -67,9 +67,10 @@ Copyright notice / author information / boring legal stuff nobody likes
 ## [Schedule](id:schedule)
 ### Week 1
 
-Monday | Tuesday | Wednesday | Thursday | Friday
-:----- | :------ | :-------- | :------- | :-----
-Task | Task | Task | Task | Task
+Week No | End | Task
+:------ | :-- | :---
+1 | <date> | Task 
+2 | <date> | Task 
 
 
 
